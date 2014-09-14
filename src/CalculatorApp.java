@@ -16,7 +16,7 @@ public class CalculatorApp {
         choose = inp3.nextInt();
 
 //Once they choose what operation they want to perform, if its 1-4, they will be given the route that let's them compute 2 #'s
-        if (choose <= 4 || choose > 0) {
+        if (choose <= 4 && choose > 0) {
             System.out.println("Hello! Please enter your first number:");
             Scanner inp1 = new Scanner(System.in);
             int num1;
@@ -44,7 +44,7 @@ public class CalculatorApp {
                     System.out.println("Oh boy...Looks like that's not one of your options. ");
             }
 //If they choose #5 square root they will only be able to enter one # and it will be computed
-        } else if(choose == 5); {
+        } else if(choose == 5) {
             System.out.println("Please enter the number you would like the square root of :");
             Scanner inp1 = new Scanner(System.in);
             double num4;

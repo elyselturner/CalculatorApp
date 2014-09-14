@@ -26,10 +26,10 @@
       <file leaf-file-name="CalculatorApp.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CalculatorApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54479766" vertical-offset="43" max-vertical-offset="795">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.7615607" vertical-offset="163" max-vertical-offset="945">
+              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
               <folding>
-                <element signature="e#0#1914#0" expanded="true" />
+                <element signature="e#0#2425#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,7 +51,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="79" />
-    <option name="y" value="25" />
+    <option name="y" value="45" />
     <option name="width" value="1440" />
     <option name="height" value="802" />
   </component>
@@ -340,7 +340,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="79" y="25" width="1440" height="802" extended-state="0" />
+    <frame x="79" y="45" width="1440" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -394,10 +394,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/CalculatorApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54479766" vertical-offset="43" max-vertical-offset="795">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.7615607" vertical-offset="163" max-vertical-offset="945">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
           <folding>
-            <element signature="e#0#1914#0" expanded="true" />
+            <element signature="e#0#2425#0" expanded="true" />
           </folding>
         </state>
       </provider>

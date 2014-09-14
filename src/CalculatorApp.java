@@ -43,6 +43,16 @@ public class CalculatorApp {
                 default:
                     System.out.println("Oh boy...Looks like that's not one of your options. ");
             }
-
+//If they choose #5 square root they will only be able to enter one # and it will be computed
+        } else if(choose == 5); {
+            System.out.println("Please enter the number you would like the square root of :");
+            Scanner inp1 = new Scanner(System.in);
+            double num4;
+            num4 = inp1.nextInt();
+            double ans4;
+            System.out.print(Math.sqrt(num4));
+        } else{
+            System.out.println("That is not a valid entry, please enter 1-5" );
+        }
     }
 }

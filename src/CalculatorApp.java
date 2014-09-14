@@ -23,7 +23,8 @@ public class CalculatorApp{
         int num2;
         num2 = inp2.nextInt();
         int ans2;
-
+        System.out.println("Enter your selection: 1 for Addition, 2 for Subtraction, 3 for Multiplication, 4 for Division and 5 for the square root:");
+        int choose;
 
         }
         }

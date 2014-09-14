@@ -15,5 +15,34 @@ public class CalculatorApp {
         int choose;
         choose = inp3.nextInt();
 
+//Once they choose what operation they want to perform, if its 1-4, they will be given the route that let's them compute 2 #'s
+        if (choose <= 4 || choose > 0) {
+            System.out.println("Hello! Please enter your first number:");
+            Scanner inp1 = new Scanner(System.in);
+            int num1;
+            num1 = inp1.nextInt();
+            int ans1;
+            System.out.println("Enter second number:");
+            Scanner inp2 = new Scanner(System.in);
+            int num2;
+            num2 = inp2.nextInt();
+            int ans2;
+            switch (choose) {
+                case 1:
+                    System.out.println(num1 + num2);
+                    break;
+                case 2:
+                    System.out.println(num1 - num2);
+                    break;
+                case 3:
+                    System.out.println(num1 * num2);
+                    break;
+                case 4:
+                    System.out.println(num1 / num2);
+                    break;
+                default:
+                    System.out.println("Oh boy...Looks like that's not one of your options. ");
+            }
+
     }
 }
